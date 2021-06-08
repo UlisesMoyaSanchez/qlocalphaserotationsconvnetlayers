@@ -1,1 +1,1 @@
-# Q Local Phase Rotations Convnet Layers
+# Quaternion Local Phase Rotations Convnet Layers
